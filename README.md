@@ -15,6 +15,5 @@ cse210-03-dice-game
 5. You can modify the two files 'main' and tictactoe
 6. git add .
 7. git commit -m 'any message from you modify contents'
-8. git pushit
+8. git push
 
-GUI
